@@ -47,3 +47,6 @@ java -jar file-filter-util.jar [OPTIONS] -s test1.txt test2.txt
 
 ## Пример
 
+<img width="1920" height="1080" alt="Снимок экрана (14)" src="https://github.com/user-attachments/assets/6ed7f7f5-0966-4b9f-8e56-0a12805cbf43" />
+<img width="1920" height="1080" alt="Снимок экрана (15)" src="https://github.com/user-attachments/assets/0cbee5b9-baed-4fec-a1c1-293d4f23c34b" /><img width="1920" height="1080" alt="Снимок экрана (16)" src="https://github.com/user-attachments/assets/a0fa9db7-9231-479e-85ad-60618e824eeb" />
+
