@@ -15,8 +15,10 @@
 ## Сборка проекта
 
 Клонируйте и загрузите проект:
-
-Перейдите в корень проекта (где находится файл pom.xml).
+````
+git clone https://github.com/Beibarys-Sultan/file-filter-util.git
+cd file-filter-util
+````
 
 Выполните команду:
 ````
