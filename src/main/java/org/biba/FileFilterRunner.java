@@ -18,8 +18,6 @@ public class FileFilterRunner {
             System.err.println("Ошибка в аргументах: " + e.getMessage());
         }
 
-        System.out.println(DataClassifier.classify("222222222222222222233333333333333333333333333"));
-
         StatisticsCollector stats = new StatisticsCollector();
 
         try (OutputManager output = new OutputManager(
